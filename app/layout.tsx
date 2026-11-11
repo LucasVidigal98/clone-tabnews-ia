@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Clone TabNews IA",
-  description: "Projeto de estudo com Next.js",
+  title: "Em construção | Tabnews-ia",
+  description: "Construindo o Tabnews-ia.",
 };
 
 export default function RootLayout({
